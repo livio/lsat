@@ -267,6 +267,7 @@ function handleDependencies {
   # Ubuntu 12.04 Specific
   if $isOsVersionPrecise; then
     sudo add-apt-repository ppa:gstreamer-developers/ppa -y
+    sudo apt-get update
   fi
 
   # Install SDL dependencies
