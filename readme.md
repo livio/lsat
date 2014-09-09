@@ -2,6 +2,9 @@
 
 This script automates the process of setting up an SDL head unit emulator on a Linux computer by building SDL from source, and running SDL.  Other automated tasks may be added in the future.
 
+## Supported Operating System
+This script will only work on Linux Ubuntu, for other operating systems you are stuck installing SDL manually.  I recommend using 12.04, the script may work on other versions, but it has not been tested yet.
+
 # Usage
 ![Help Screen](http://i.imgur.com/b2g6FVn.png?1)
 
