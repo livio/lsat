@@ -8,6 +8,12 @@ This script will only work on Linux Ubuntu, for other operating systems you are 
 # Usage
 ![Help Screen](http://i.imgur.com/b2g6FVn.png?1)
 
+## Download LSAT
+Download the script to anywhere you want and give it permission to run.
+
+    wget https://raw.githubusercontent.com/livio/lsat/master/readme.md
+    chmod +x lsat.sh
+
 ## Install Emulator
 To install just run the script with the install flag.  This will install dependancies, configure your machine, build SDL from source, and then run SDL.
 
