@@ -11,7 +11,7 @@ This script will only work on Linux Ubuntu, for other operating systems you are 
 ## Download LSAT
 Download the script to anywhere you want and give it permission to run.
 
-    wget https://raw.githubusercontent.com/livio/lsat/master/readme.md
+    wget https://raw.githubusercontent.com/livio/lsat/master/lsat.sh
     chmod +x lsat.sh
 
 ## Install Emulator
