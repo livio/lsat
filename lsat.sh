@@ -4,12 +4,13 @@
 # Livio SDL Automation Tool
 #
 # Omg, your here!!  Oh crap... um ya I wasn't really 
-# expecting you to look at this... oh crap, um ok ok ok.
-# So you can edit the values here, on the top.  But
-# I couldn't loop past the STOP.
+# expecting you to look at this... 
 #
 # Oh right, what does this do?  It automates stuff and
 # junk to get SDL up and running on a new machine.
+#
+# You probably don't want to touch anything below
+# the STOP comment.
 
 # ------------------------------------------------------- #
 # User Input Values
